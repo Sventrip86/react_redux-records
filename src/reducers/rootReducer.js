@@ -10,6 +10,7 @@ const initState = {
   
   const rootReducer = (state = initState, action) => {
     return state;
+    // sadfòn
   }
   
   export default rootReducer
